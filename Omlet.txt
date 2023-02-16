@@ -4,4 +4,7 @@ Omlet
 2. Yumurta
 3. peynir
 4. Tuz
+5. Nane
+6. Pulbiber
+
 
