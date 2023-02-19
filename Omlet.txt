@@ -4,4 +4,6 @@ Omlet
 2. Yumurta
 3. peynir
 4. Tuz
+5. karabiber
+6. Kasar peyniri
 
